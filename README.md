@@ -1,3 +1,4 @@
+![alt tag](https://github.com/mellow8/Councillor-Proposals/blob/main/2.png)
 # Councillor-Proposals
 1.  npm install -g @subql/cli
 2.  subql init --starter Councillor-Proposals
