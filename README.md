@@ -1,4 +1,4 @@
-# subquery
+# Councillor-Proposals
 1.  npm install -g @subql/cli
 2.  subql init --starter Councillor-Proposals
 3.  cd Councillor-Proposals
